@@ -23,6 +23,11 @@ You can add/view your superheroes
 3. **NestJS**: I was really excited when i received this challange, I didn't know how to get home faster so I could complete the challenge earlier.<br> I arrived late and chose to make it in express.js to make it faster so i can send it :(
 4. **Git**: I would implement it just to monitorize the progress of the application. (I forgot to initialize it from the beginning)
 
+## Used:
+```bash
+node: v20.12.2
+npm: 10.9.2
+```
 
 ## Backend Installation
 1. Install the required dependencies:
