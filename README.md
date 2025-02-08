@@ -2,6 +2,13 @@
 A small web app which use Express.js and React as backend and frontend.<br>
 You can add/view your superheroes
 - **Adding Route**: `POST /superheroes`
+  ```json
+  {
+    "name": "Flash",
+    "superpower": "speed",
+    "score": "8"
+  }
+  ```
 - **Fetching Route**: `GET /superheroes`
 
 ### To collaborate effectively with a teammate on this project, I would:
